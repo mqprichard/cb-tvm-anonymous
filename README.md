@@ -1,4 +1,4 @@
-aws-cb-tvm-anonymous
-====================
+cb-tvm-anonymous
+================
 
-CloudBees-enabled port of Amazon aws-tvm-anonymous Token Vending Machine sample service.
+CloudBees/Maven port of Amazon aws-tvm-anonymous Token Vending Machine sample service.
