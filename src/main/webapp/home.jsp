@@ -18,11 +18,6 @@
 <%@page import="com.amazonaws.tvm.Configuration"%>
 <%@ page session="true" %>
 
-<%
-	//Configuration.setAwsAccessKeyId(getServletConfig().getInitParameter("awsAccessKey"));
-	//Configuration.setAwsSecretKey(getServletConfig().getInitParameter("awsSecretKey"));
-%>
-
 <html>
 	<head>
 		<title>AnonymousTVM - Welcome</title>
