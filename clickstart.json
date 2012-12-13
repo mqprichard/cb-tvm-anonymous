@@ -1,17 +1,15 @@
 {
     "id": "cb-tvm-anonymous",
     "name": "CloudBees Anonymous TVM for AWS",
-    "source": "https://github.com/mqprichard/cb-tvm-anonymous.git",
+    "source": "github",
     "description" : "The Amazon Web Services Anonymous Token Vending Machine (TVM) sample application for the CloudBees PaaS",
     "doc-url" : "https://github.com/mqprichard/cb-tvm-anonymous/blob/master/readme.md",
     "icon" : "https://d3ko533tu1ozfq.cloudfront.net/clickstart/sencha_icon.png",
-    "runtime": {
-        "type": "tomcat"
-    },
+
     "build-with-jenkins": {
         "plugins" : ["git"],
         "template": {
-            "type": "https://raw.github.com/mqprichard/cb-tvm-anonymous/master/config.xml",
+            "type": "https://raw.github.com/mqprichard/cb-tvm-anonymous/master/jenkins-config.xml",
             "options": {
             }
         }
