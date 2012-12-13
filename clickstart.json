@@ -1,4 +1,4 @@
-
+{
     "id": "cb-tvm-anonymous",
     "name": "CloudBees Anonymous TVM for AWS",
     "source": "https://github.com/mqprichard/cb-tvm-anonymous.git",
