@@ -1,6 +1,6 @@
 {
     "id": "cb-tvm-anonymous",
-    "name": "CloudBees Anonymous TVM for AWS",
+    "name": "Anonymous Token Vending Machine",
     "source": "github",
     "description" : "The Amazon Web Services Anonymous Token Vending Machine (TVM) sample application for the CloudBees PaaS",
     "doc-url" : "https://github.com/mqprichard/cb-tvm-anonymous/blob/master/readme.md",
